@@ -8,7 +8,7 @@ Project created in the grid course in order to learn how to simplify the creatio
 
 ## Demo
 
-https://appx-seven.vercel.app/
+https://vercel.com/victorhubarb/appx-store
 
 ## Project Features
 
@@ -31,7 +31,7 @@ https://appx-seven.vercel.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/victorhubarb/Appx
+  git clone https://github.com/victorhubarb/Appx-Store
 ```
 
 ## Future Implementations
