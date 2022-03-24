@@ -8,7 +8,7 @@ Project created in the grid course in order to learn how to simplify the creatio
 
 ## Demo
 
-https://vercel.com/victorhubarb/appx-store
+https://appx-store.vercel.app/
 
 ## Project Features
 
